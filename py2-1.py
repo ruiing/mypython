@@ -6,4 +6,3 @@ if guess == 8:
 else:
     print('猜错了……我现在心中想的是 8')
 print('游戏结束！')
-print('yeyey')
